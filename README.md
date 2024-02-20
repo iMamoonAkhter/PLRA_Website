@@ -2,7 +2,7 @@
 
 Welcome to the Punjab Land Records Authority (PLRA) Website repository! This project is a responsive and user-friendly website designed to facilitate easy access to land records in Punjab, Pakistan.
 
-![Demo](demo.png)
+![Demo](demo.jpg)
 
 ## Introduction
 
